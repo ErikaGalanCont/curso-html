@@ -103,3 +103,25 @@ body{
     border: 20px solid rgb(85, 55, 218);
     margin: 20px 45px 35px 10px;
 }
+
+.card{
+    width: 300px;
+    box-shadow: 5px 5px 15px 5px rgb(140, 154, 214);
+    margin-left: 360px;
+    border-radius: 10px;
+    margin-top: 25px;
+    
+    
+}
+.card-header{
+    width: 100%;
+    font-family: cursive;
+    background-color: rgb(110, 111, 121);
+    height: 60px;
+}
+.card-footer{
+    background-color: rgb(165, 218, 243);
+    height: 60px;
+    width: 100%;
+
+}
