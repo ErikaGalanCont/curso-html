@@ -15,7 +15,7 @@
     <title>Template</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">
             <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="" width="40" height="32" class="d-inline-block align-text-bottom">
@@ -74,11 +74,11 @@
                     </button>
                 </li>
                 <li class="nav-item">
-                  <a href="mi_perfil.html" class="btn btn-light text-dark mx-2">Camilo M. <i class="fa-solid fa-circle-user fa-1x"></i></a> 
+                  <a href="mi_perfil.html" class="btn btn-light text-dark mx-2">EriGal <i class="fa-solid fa-circle-user fa-1x"></i></a> 
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Camilo M. <i class="fa-solid fa-circle-user fa-1x"></i>
+                        EriGal <i class="fa-solid fa-circle-user fa-1x"></i>
                     </a>
                     <ul class="dropdown-menu dropdown-menu-lg-end" aria-labelledby="navbarDropdown">
                       <li><a class="dropdown-item" href="#">Configurar cuenta</a></li>
@@ -88,7 +88,7 @@
               </div>
             </ul>
         </div>
-    </nav>
+      </nav>
     <div class="container-fluid">
       <div class="card mt-4 shadow rounded">
         <div class="card-body">
