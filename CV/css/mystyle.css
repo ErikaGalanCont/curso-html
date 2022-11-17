@@ -1,0 +1,7 @@
+.row-img{
+    background-image: url('../img/cv-portada-inicio.jpg');
+    background-size: 1200px 550px;
+}
+.bg-transparent-secondary{
+    background-color: #6c757dde!important;
+}
